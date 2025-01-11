@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ma290
-- 👀 I’m interested in ...money,games,friends
+- 👀 I’m interested in ...money,learning
 - 🌱 I’m currently learning ... how to be rich
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
