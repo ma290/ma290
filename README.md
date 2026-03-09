@@ -58,24 +58,6 @@ Node.js APIs that allow applications and services to communicate.
 ### 🤖 Telegram Bots
 Automation bots built for Telegram that connect with external APIs and services.
 
----
-
-## 📊 GitHub Stats
-
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced AI integrations
-- Scalable backend systems
-- Automation tools
-
----
-
 ## 📫 Contact
 
 GitHub: https://github.com/ma290 
