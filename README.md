@@ -78,8 +78,8 @@ Automation bots built for Telegram that connect with external APIs and services.
 
 ## 📫 Contact
 
-GitHub: https://github.com/yourusername  
-Email: your-email@example.com
+GitHub: https://github.com/ma290 
+Email: 9873ashutosh@gmail.com
 
 ---
 
